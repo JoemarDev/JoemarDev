@@ -1,3 +1,3 @@
 ### Hi, I'm Joemar Baclea-an (🎧💻🎥)
 
-Im a freelancer web developer.
+A Passionate Software Enginner Who Loves to Explore And know more about technology.
