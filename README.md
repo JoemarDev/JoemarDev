@@ -1,3 +1,3 @@
-### Hi, I'm Joemar!
+### Hello there, Mate! 👋
 
-A Passionate Software Enginner Who Loves to Explore And know more about technology.
+Im Joemar! A Software Engineer from PHILIPPINES.
