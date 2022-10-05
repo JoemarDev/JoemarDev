@@ -9,5 +9,5 @@
 ![Joemar Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=joemardev&show_icons=true&theme=dark)
 
 
-[![Joemar Dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joemardev&layout=compact&show_icons=true&theme=dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Joemar Dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joemardev&layout=compact&show_icons=true&theme=dark&v=2)](https://github.com/JoemarDev)
 
