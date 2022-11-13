@@ -3,10 +3,9 @@
 
 # Hi Mate! 👋, I'm Joemar :bow:
 
-# HIRE ME ON ![FIVERR](https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png)(https://www.fiverr.com/share/DgWvxa)
 
 #### I'm a Full-Stack developer 👻 from [Cavite](https://en.wikipedia.org/wiki/Cavite), Philippines.
-
+## HIRE ME ON [FIVERR](https://www.fiverr.com/share/DgWvxa)
 ---
 
 ![Joemar Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=joemardev&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=dark)
