@@ -5,7 +5,7 @@
 
 
 #### I'm a Full-Stack developer 👻 from [Cavite](https://en.wikipedia.org/wiki/Cavite), Philippines.
-## Hire me on [FIVERR](https://www.fiverr.com/share/DgWvxa)
+#### I'm also a freelancer you can hire me on [FIVERR](https://www.fiverr.com/share/DgWvxa) :)
 ---
 
 ![Joemar Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=joemardev&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=dark)
