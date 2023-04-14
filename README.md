@@ -11,7 +11,6 @@
 ![Joemar Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=joemardev&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=dark)
 
 
-[![Joemar Dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joemardev&layout=compact&show_icons=true&theme=dark&v=25)](https://github.com/JoemarDev)
 
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
