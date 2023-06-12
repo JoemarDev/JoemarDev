@@ -1,14 +1,8 @@
 [![](https://komarev.com/ghpvc/?username=joemardev&color=yellow)](https://github.com/antonkomarev/github-profile-views-counter)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-yellow)
 
-# Hi Mate! 👋, I'm Joemar :bow:
+# Hi Mate! 👋, I'm Joemar :bow: Welcome to my GitHub profile!
 
-### Welcome to my GitHub profile!
-
-## Unleashing the Power of Imagination
-##### My eyes serve as portals to a realm where creativity knows no bounds. 
-##### They are the windows through which I perceive the endless possibilities hidden within every project. 
-##### With an insatiable curiosity, I constantly seek to unravel the secrets of cutting-edge technologies and transform them into captivating experiences.
 
 ---
 
