@@ -4,8 +4,9 @@
 # Hi Mate! 👋, I'm Joemar :bow:
 
 
-#### I'm a Full-Stack developer 👻 from [Cavite](https://en.wikipedia.org/wiki/Cavite), Philippines.
-#### I'm also a freelancer you can hire me on [FIVERR](https://www.fiverr.com/share/DgWvxa) :)
+#### Welcome to my GitHub profile!
+#👁️ Introducing the Vision Behind the Code 👁️
+In the vast realm of software development, I am the visionary explorer, diving deep into the intricate landscapes of code. With each line I write, my mission is to create elegant and innovative solutions that transcend expectations.
 ---
 
 
