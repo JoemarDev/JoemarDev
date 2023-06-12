@@ -1,10 +1,12 @@
 [![](https://komarev.com/ghpvc/?username=joemardev&color=yellow)](https://github.com/antonkomarev/github-profile-views-counter)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-yellow)
 
-# Hi Mate! 👋, I'm Joemar :bow: Welcome to my GitHub profile!
-
-
----
+  _______ _    _ ______  _____ _____ _______ _____ _   _  _____ 
+ |__   __| |  | |  ____|/ ____|_   _|__   __|_   _| \ | |/ ____|
+    | |  | |__| | |__  | (___   | |    | |    | | |  \| | |  __ 
+    | |  |  __  |  __|  \___ \  | |    | |    | | | . ` | | |_ |
+    | |  | |  | | |____ ____) |_| |_   | |   _| |_| |\  | |__| |
+    |_|  |_|  |_|______|_____/|_____|  |_|  |_____|_| \_|\_____|
 
 
 ![Joemar's GitHub stats](https://github-readme-stats.vercel.app/api?username=joemardev&show_icons=true&theme=dark)
