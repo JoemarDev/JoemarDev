@@ -1,7 +1,7 @@
 [![](https://komarev.com/ghpvc/?username=joemardev&color=yellow)](https://github.com/antonkomarev/github-profile-views-counter)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-yellow)
 
-## Welcome to my awesome GitHub profile!
+# Welcome to my awesome GitHub profile!
 
 ### 👋 Hello, World! 👋
 I'm the coding wizard with a touch of fun and a sprinkle of quirkiness. 
