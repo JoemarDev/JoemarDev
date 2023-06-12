@@ -5,10 +5,10 @@
 
 
 # Welcome to my GitHub profile!
-##👁️ Introducing the Vision Behind the Code 👁️
+## 👁️ Introducing the Vision Behind the Code 👁️
 ### As you step into my world of software development, get ready to experience a warm and friendly atmosphere. I believe that coding is not just about lines of text; it's about building connections, fostering creativity, and making a positive impact.
 
-##🌟 Unleashing Creativity, One Line at a Time 🌟
+## 🌟 Unleashing Creativity, One Line at a Time 🌟
 ### Imagine a canvas where ideas come to life. With my trusty keyboard as my brush, I paint vibrant strokes of code that breathe life into innovative solutions. I'm driven by a passion for creativity and inspired by the endless possibilities that technology brings.
 
 ## ✨ Crafting User Interfaces with a Dash of Wow ✨
