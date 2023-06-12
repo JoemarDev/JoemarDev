@@ -5,7 +5,7 @@
 
 # Welcome to my GitHub profile!
 
-# 🌟 Unleashing the Power of Imagination 🌟
+🌟 Unleashing the Power of Imagination 🌟
 My eyes serve as portals to a realm where creativity knows no bounds. 
 They are the windows through which I perceive the endless possibilities hidden within every project. 
 With an insatiable curiosity, I constantly seek to unravel the secrets of cutting-edge technologies and transform them into captivating experiences.
