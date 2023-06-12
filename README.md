@@ -1,14 +1,24 @@
 [![](https://komarev.com/ghpvc/?username=joemardev&color=yellow)](https://github.com/antonkomarev/github-profile-views-counter)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-yellow)
 
- # _______ _    _ ______  _____ _____ _______ _____ _   _  _____ 
- #|__   __| |  | |  ____|/ ____|_   _|__   __|_   _| \ | |/ ____|
- #   | |  | |__| | |__  | (___   | |    | |    | | |  \| | |  __ 
- #   | |  |  __  |  __|  \___ \  | |    | |    | | | . ` | | |_ |
- #   | |  | |  | | |____ ____) |_| |_   | |   _| |_| |\  | |__| |
- #   |_|  |_|  |_|______|_____/|_____|  |_|  |_____|_| \_|\_____|
-    
+Welcome to my awesome GitHub profile!
 
+👋 Hello, World! 👋
+I'm the coding wizard with a touch of fun and a sprinkle of quirkiness. 
+My mission is to turn mundane lines of code into a magical experience that brings a smile to your face.
+
+🎉 Let's Party with Code! 🎉
+Imagine coding as a party, where creativity dances, bugs are popped like balloons, and algorithms groove to the beat. 
+I'm here to make every line of code a celebration, full of laughter, surprises, and endless possibilities.
+
+✨ Magic Happens When I Type ✨
+With every keystroke, I unleash my coding spells, conjuring up enchanting software that captivates hearts. 
+From spellbinding websites to spellchecking wizards, I'm the sorcerer who turns ideas into reality.
+
+🌈 Embracing Colors of Innovation 🌈
+In my rainbow of creativity, each color represents a new adventure. 
+From vibrant user interfaces to colorful data visualizations, I paint with a palette that knows no bounds. 
+Together, let's add a splash of color to the world of code!
 
 
 ![Joemar's GitHub stats](https://github-readme-stats.vercel.app/api?username=joemardev&show_icons=true&theme=dark)
