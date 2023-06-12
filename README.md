@@ -9,7 +9,7 @@
 ---
 
 ![Joemar Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=joemardev&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
