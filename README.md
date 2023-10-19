@@ -11,32 +11,6 @@ My goal is to turn complex code into something magical that brings a smile to yo
 Think of coding as a party where creativity flows, bugs are squashed, and algorithms dance. 
 I'm here to make every line of code a celebration, filled with laughter, surprises, and endless possibilities.
 
-### ✨ Magic Happens When I Type ✨
-With each keystroke, I use my coding magic to create captivating software that can amaze and inspire. 
-From stunning websites to smart tools, I'm like a wizard turning ideas into realit
-
-### 🌈 Embracing Colors of Innovation 🌈
-In my world, coding is like painting with vibrant colors. 
-I love creating beautiful user interfaces and eye-catching data visualizations. 
-Together, let's add a splash of color to the coding landscape!
-
-### 🔮 Unraveling Mysteries of Tech 🔮
-Technology is like a puzzle to me, and I enjoy solving its mysteries. 
-I'm always ready to dive into code, untangle complexities, and find solutions. 
-With a bit of coffee and curiosity, there's no challenge I can't tackle!
-
-### 💡 Lighting the Path to Success 💡
-I'm here to help and guide you on your coding journey. 
-If you need assistance, advice, or just someone to bounce ideas off of, count on me to provide support and encouragement.
-
-### 🚀 Ready for an Epic Coding Adventure? 🚀
-If you're up for an exciting coding adventure, join me on this journey of innovation and fun. 
-Together, we can create amazing things with code and make a positive impact in the world.
-
-### 📫 Let's Connect and Have a Blast! 📫
-You can reach out to me through various channels. 
-Whether you have questions, project ideas, or simply want to chat about coding, I'm always thrilled to connect with fellow enthusiasts.
-
 ### May the code be with you! 💻✨
 
 [![Joemar's Github Stats](https://github-readme-stats.vercel.app/api?username=JoemarDev&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&icon_color=fc880c&bg_color=23211f&text_color=ffbb7c&title_color=fc880c&custom_title=Joemar%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
